@@ -1,3 +1,21 @@
-body {
-  background-color: blueviolet;
+main {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+li,
+q {
+  width: 500px;
+  padding-top: 30px;
+}
+
+#img-div {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.secondh2 {
+  padding-top: 30px;
 }
